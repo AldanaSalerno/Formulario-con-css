@@ -1,0 +1,109 @@
+* {
+	margin: 0;
+	font-family: sans-serif;
+}
+
+body {
+	background-image: url(https://iphoneroscdn-iphoneros.netdna-ssl.com/wp-content/uploads/2019/11/iPhone11ProMax-iPhone11-iPhone11Pro-iPhoneXSMax-iPhoneXR-iPhoneXS-iPhoneX.jpg);
+	background-size: 100%;
+}
+
+.contentbox {
+	text-align: center;
+	margin: 250px auto;
+	padding:20px;
+	color: #fff;
+	border: 1px groove #fff;
+	box-shadow: 4px 4px 24px 0 #fff;
+	width: 20%;
+	border-radius: 5%;
+}
+
+.formulario h2 {
+	display: inline;
+		padding-bottom: 20px;
+}
+	
+.contentbox .input input {
+	width: 85%;
+	padding: 10px;
+	outline: none;
+	font-weight: 400;
+	border-bottom: 1px solid;
+	font-size: 16px;
+	letter-spacing: 4px;
+	color: #fff;
+	background: transparent;
+	border-radius: 30px;
+	margin: 15px 15px 15px 15px;
+	box-shadow: 2px 2px 14px 0 #fff;
+}
+
+ button {
+	width: 92%;
+	padding: 10px;
+	outline: none;
+	font-weight: 400;
+	border-bottom: 1px solid;
+	font-size: 16px;
+	letter-spacing: 4px;
+	color: #fff;
+	background: transparent;
+	border-radius: 30px;
+	margin: 15px 15px 15px 15px;
+	box-shadow: 2px 2px 20px 0 #fff;	
+}
+
+.formulario {
+	margin-left: 20px;
+}
+.link a {
+	color: #fff;
+	font-size: 16px;
+	text-decoration: none;
+}
+.link ul {
+	color: transparent;
+}
+
+div .formulario .span{
+	font-size: 40px;
+	margin: auto;
+}
+
+.formulario h2 {
+	color: #fff;
+	font-size: 30px;
+	text-align: center;
+	justify-content: center;
+	display: flex;
+	
+}
+
+.info {
+	text-align: center;
+	margin: auto;
+}
+.info li{
+	font-size:10px;
+	display: inline-block;
+	font-size: 30px;
+	color: #fff;
+	margin: 30px;
+}
+
+.info h4 {
+	font-size: 20px;
+	font-family: sans-serif;
+	text-align: center;
+	justify-content: center;
+	
+	color: #fff;
+}
+
+button:hover {
+	color: red;
+	transition: 1s;
+}
+
+
